@@ -1,0 +1,9 @@
+function mostrarMensagem() { 
+
+  document.getElementById("mensagem").innerText =  
+
+    "Seja bem-vindo ao meu Mundo! Analista SAP MM/SD, unindo a visão estratégica da Engenharia de Produção com a lógica da Análise e Desenvolvimento de Sistemas — um talento completo que transforma processos em resultados."; 
+
+} 
+ 
+ 
